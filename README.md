@@ -1,4 +1,5 @@
-## Hi there 👋
+# Jhon Lloyd Viernes
+![Alt text](https://spotify-recently-played-readme.vercel.app/api?user=31t2ncx2kmmhwmh5mki2hs7d2gze&count={count})
 
 <!--
 **dlord213/dlord213** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
