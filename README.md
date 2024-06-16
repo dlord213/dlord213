@@ -28,4 +28,3 @@ I am a currently a student from Philippines
     <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" title="Git" **alt="Git" width="40" height="40"/>
   </div>
 </div>
-![Alt text](https://spotify-recently-played-readme.vercel.app/api?user=31t2ncx2kmmhwmh5mki2hs7d2gze)
