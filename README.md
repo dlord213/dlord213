@@ -1,5 +1,5 @@
 # Jhon Lloyd Viernes
 
-<div>
-![Alt text](https://spotify-recently-played-readme.vercel.app/api?user=31t2ncx2kmmhwmh5mki2hs7d2gze&count={count})
+<div id="header" align="center">
+  <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100"/>
 </div>
