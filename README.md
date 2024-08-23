@@ -26,5 +26,6 @@ I am currently a student from Philippines
     <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" title="Git" **alt="Git" width="40" height="40"/>
   </div>
 </div>
+<br></br>
 
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=dlord213&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
