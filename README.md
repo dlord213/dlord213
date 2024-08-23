@@ -1,9 +1,8 @@
-
-### :guardsman: About Me
-I am a currently a student from Philippines
+# :guardsman: About Me [![](https://visitcount.itsvg.in/api?id=dlord213&icon=0&color=3)](https://visitcount.itsvg.in)
+I am currently a student from Philippines
 - :zap: In my free time, I create fun side-projects.
 - :fire: Learning both frontend and backend, aspiring to be a full-stack developer.
-### Languages & Tools
+## Languages & Tools
 <div style="display: flex; flex-direction: column">
   <div style="display: flex; flex-direction: row; gap: 4px;">
     <img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original-wordmark.svg" title="React" alt="React" width="40" height="40"/>&nbsp;
@@ -27,3 +26,5 @@ I am a currently a student from Philippines
     <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" title="Git" **alt="Git" width="40" height="40"/>
   </div>
 </div>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=dlord213&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+
